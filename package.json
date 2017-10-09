@@ -1,0 +1,17 @@
+{
+  "name": "ethical-noop-module-files",
+  "version": "0.0.1",
+  "description": "Test mock node module with \"files\" entry for the Ethical framework.",
+  "files": [
+    "./files.js"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethically/ethical-noop-module-files.git"
+  },
+  "author": "m-a-r-c-e-l-i-n-o <me@marceli.no>",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
